@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+body{
+  background-image: url(5675674.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section{
+  background-color: #071c46eb;
+  background-size: cover;
+  width: 100%;
+}

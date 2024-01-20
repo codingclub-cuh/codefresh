@@ -1,0 +1,58 @@
+@media screen and (max-width: 480px) {
+   .col-sm-1{
+    width: 8%;
+   }
+   .col-sm-2{
+    width: 15%;
+   }
+   .col-sm-3{
+    width: 23%;
+   }
+   .col-sm-4{
+    width: 32%;
+   }
+   .col-sm-5{
+    width: 40%;
+   }
+   .col-sm-6{
+    width: 50%;
+   }
+   .col-sm-7{
+    width: 60%;
+   }
+   .col-sm-8{
+    width: 68%;
+   }
+   .col-sm-9{
+    width: 77%;
+   }
+   .col-sm-10{
+    width: 85%;
+   }
+   .col-sm-11{
+    width: 92%;
+   }
+   .col-sm-12{
+    width: 100%;
+   }
+   div .tag h2{
+    border-bottom-left-radius: 0% !important;
+    border-bottom-right-radius: 0% !important;
+    padding: 10px 5px;
+    margin:20px 0px;
+   }
+    .logo img{
+    width: 350px;
+    height: 75px;
+    padding-top: 10px;
+   }
+   section .ccclogo img{
+    width: 50%;
+    height: 75%;
+    display: none;
+   }
+   .img-fluid{
+    width: 85px !important;
+    height: 100px !important;
+   }
+  }
